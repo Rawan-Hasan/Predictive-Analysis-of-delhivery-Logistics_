@@ -1,4 +1,6 @@
 # Predictive-Analysis-of-delhivery-Logistics_
+![image](https://github.com/user-attachments/assets/029ee625-dde3-4470-8651-50bb8effbd5a)
+
 Problem Statement: Delhivery is one of the fastest growing logistics firm in India providing reliable transportation to various segments of the economy ranging from retail customers to ecommerce giants. They aim to build state of the art operations and gain competitive advanyage by minimising delivery time and achieving maximum efficiency in logistics.
 
 Using this dataset, the firm wants to find opportunities to improve efficiency in operations and understand how the estimated delivery time/distance varies with respect to the actual delivery time/distance.
